@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_page_abouts",
+  "info": {
+    "name": "abouts",
+    "icon": "american-sign-language-interpreting"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "profession": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

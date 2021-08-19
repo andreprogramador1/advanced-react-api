@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_page_tecnologias",
+  "info": {
+    "name": "tecnologias",
+    "icon": "angle-double-right"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": true,
+      "pluginOptions": {}
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

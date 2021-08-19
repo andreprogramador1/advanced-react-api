@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_textos",
+  "info": {
+    "name": "texto",
+    "icon": "envelope-open-text"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
